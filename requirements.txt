@@ -1,2 +1,5 @@
 pandas
 jupyterlab
+ipykernel
+openpyxl
+Counter
